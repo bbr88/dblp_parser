@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="org.apache.commons:com.springsource.org.apache.commons.digester:1.8.0" type="repository">
+    <properties maven-id="org.apache.commons:com.springsource.org.apache.commons.digester:1.8.0" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/commons/com.springsource.org.apache.commons.digester/1.8.0/com.springsource.org.apache.commons.digester-1.8.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/commons/com.springsource.org.apache.commons.beanutils/1.7.0/com.springsource.org.apache.commons.beanutils-1.7.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/commons/com.springsource.org.apache.commons.collections/3.2.0/com.springsource.org.apache.commons.collections-3.2.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/commons/com.springsource.org.apache.commons.logging/1.1.1/com.springsource.org.apache.commons.logging-1.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

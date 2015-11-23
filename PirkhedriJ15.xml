@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE dblp SYSTEM "PirkhedriJ15.dtd">
+<dblp>
+	<book key="books/daglib/0035281" mdate="2015-08-07">
+		<author>Mark J. Guzdial</author>
+		<author>Barbara Ericson</author>
+		<title>
+			Introduction to Computing and Programming in Python - a Multimedia Approach, 4th Edition.
+		</title>
+		<pages>I-XXIII, 1-499</pages>
+		<publisher>Prentice Hall</publisher>
+		<year>2016</year>
+		<isbn>978-0-13-402554-4</isbn>
+		<ee>
+			http://vig.pearsoned.com/store/product/1,1207,store-12521_isbn-0134059840,00.html
+		</ee>
+	</book>
+</dblp>
